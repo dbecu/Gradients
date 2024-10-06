@@ -1,0 +1,8 @@
+html, body, main{
+    margin: 0;
+    overflow: hidden; /* Hide scrollbars */
+}
+
+canvas{
+    /* filter: blur(15px); */
+}
